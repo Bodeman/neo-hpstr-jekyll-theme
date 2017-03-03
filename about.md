@@ -1,36 +1,46 @@
 ---
 layout: page
-title: About
+title: Michael Bode
 share: true
 ---
 
-# Neo-HPSTR Jekyll Theme
+# Coaching people, teaching process
 
-Neo-HPSTR Jekyll is a responsive and modern blog template.
+Michael Bode an avid board game hobbyist, transformation coach, and technology junkie, in that order. He is one of the co-organizers of Utah Agile and currently an agile coach at ARUP Laboratories. 
 
-# Live Demo
+Before landing near the ski slopes, Michael served as Chief Operations Officer at an international video game and simulation company in Prague. Over the years he developed military training tools, crafted dozens of websites, constructed multiple data centers, and helped countless development teams get in touch with their feelings. 
 
-You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
+Some of his more notable previous speaking engagements were to NATO, ITEC, and the Interservice/Industry Training, Simulation and Education Conferences. 
+
+His life purpose statement is, “I am the avalanche that compels people forward“.
+
+# Qualifications
+
+ * Certified Scrum Professional
+ * Certified Scrum Master
+ * Certified Professional Co-Active Coach
+ * Associate Certified Coach
+ * ITIL Expert
+ * AWS Solutions Architect Associate
 
 
-## What Neo-HPSTR brings to the table:
+## What Michael brings to the table:
 
-* Modern design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet topbar animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* Author panel, with social links
-* Read more tag support(similar with Wordpress ).
+* Insert the coaching framework image here
 
 ![Preview](http://aronbordin.com/images/neo-hpstr-jekyll-theme-preview.png)
 
 
 ---
 
-## Getting Started
+## Getting in touch
 
-Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+Looking for coaching in:
+* Agile process
+* ITIL
+* Program or portfolio management
+* Change management
+* Organizational transformation
+* Life purpose
+
+OR, maybe you need help implementing that next great idea on AWS? Reach out to me on linkedin and I'll be happy to help. 
